@@ -24,5 +24,5 @@ Copy `esp8266-temp.ino` into `~/Arduino/project/esp8266-temp`
 
 ## Compile
 * Use *File->Open* to select the sketch `esp8266-temp.ino`
-* Use *Sketch->Verify/Compile* to the sketch
+* Use *Sketch->Verify/Compile* to compile the sketch
 * Use *Sketch->Upload* to upload the sketch
