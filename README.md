@@ -1,9 +1,9 @@
 # esp8266-temp
 
 ## Introduction
-In this example, an ESP8266 ESP-12F D1 board is used with a DS18B20
-Temperature Sensor.  This is a simple demo program that reports
-temperature readings via MQTT.
+This example demonstrates the use of an ESP8266 ESP-12F D1 board
+connected to a DS18B20 temperature sensor. It runs a simple program that
+reads temperature data and publishes the readings via MQTT.
 
 ## Requirements
 Install Arduino IDE. Follow the instructions **Installing with Boards Manager**
