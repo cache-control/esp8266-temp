@@ -12,6 +12,11 @@ minutes to perform measurement and report.
 Install Arduino IDE. Follow the instructions **Installing with Boards Manager**
 from `https://github.com/esp8266/Arduino`
 
+## Hardware
+
+* ESP8266 module with soldered rails
+  * ![ESP8266 module](/assets/images/esp8266-12.jpg)
+
 ## Installation
 In the IDE install these libraries via *Tools->Manage Libraries*
 * OneWire
