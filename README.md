@@ -25,6 +25,10 @@ from `https://github.com/esp8266/Arduino`
 * The assembled parts
   * ![Assembled parts](/assets/images/assembled.jpg)
 
+## Wiring
+
+I adapted the instructions from <http://technicalstuffhopefullyuseful.blogspot.com/2016/12/connecting-esp8266-12-to-ds1820.html>
+
 ## Installation
 In the IDE install these libraries via *Tools->Manage Libraries*
 * OneWire
