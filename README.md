@@ -14,8 +14,16 @@ from `https://github.com/esp8266/Arduino`
 
 ## Hardware
 
-* ESP8266 module with soldered rails
+* ESP8266 module after I soldered rails to.
   * ![ESP8266 module](/assets/images/esp8266-12.jpg)
+* Development board that came with the module
+  * ![Development board](/assets/images/devboard.jpg)
+* 2 AA battery carrier
+  * ![Battery carrier](/assets/images/carrier.jpg)
+* I bought a D1 mini board, which already had an ESP8266 module. I removed its module and soldered on pins that could accept my module.
+  * ![Programmer](/assets/images/programmer.jpg)
+* The assembled parts
+  * ![Assembled parts](/assets/images/assembled.jpg)
 
 ## Installation
 In the IDE install these libraries via *Tools->Manage Libraries*
